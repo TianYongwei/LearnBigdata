@@ -1,9 +1,6 @@
 - 概念并发度
 
 node级别
-
-
-
 进程级别
 
 > setNumWorkers(2);
@@ -15,6 +12,5 @@ node级别
 nimbus
 
 supervisor
-
 
 - 推荐书籍
