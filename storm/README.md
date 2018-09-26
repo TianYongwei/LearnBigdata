@@ -1,16 +1,13 @@
-- 概念并发度
+## 什么是Storm?
 
-node级别
-进程级别
+## Storm 中的xx组件是什么？
 
-> setNumWorkers(2);
+## Storm 中的xx组件是什么？
 
-线程
+## 使用场景1
 
-- 集群中的角色
+## 使用场景2
 
-nimbus
+## xx功能如何实现？
 
-supervisor
-
-- 推荐书籍
+## xx功能如何实现？
