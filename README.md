@@ -18,3 +18,7 @@
 CAP 定理及其证明
 
 [[转] CAP定理的证明 | 粉丝日志](http://blog.fens.me/distribution-cap/)
+
+
+### 参考书籍
+[数据仓库书籍](https://github.com/happyapple668/gavin-repo/tree/master/books/BI/Datawarehouse)
